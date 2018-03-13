@@ -1,0 +1,18 @@
+Fonts used in this design;
+
+Font: Great Vibes, 
+Author: TypeSETit, 
+Url: http://www.fontsquirrel.com/fonts/great-vibes; 
+
+Font: Lobster, 
+Author: Impallari Type, 
+Url: http://www.fontsquirrel.com/fonts/Lobster; 
+
+Font: Ostrich Sans, 
+Author: Tyler Finck, 
+Url: http://www.fontsquirrel.com/fonts/ostrich-sans; 
+
+Font: Oswald, 
+Author: Vernon Adams, 
+Url: http://www.fontsquirrel.com/fonts/oswald; 
+
